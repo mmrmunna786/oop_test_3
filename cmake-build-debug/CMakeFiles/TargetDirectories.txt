@@ -1,0 +1,3 @@
+/Users/munnarahman/Desktop/CPP_OREILLY/chapter_2/namespaces/cmake-build-debug/CMakeFiles/namespaces.dir
+/Users/munnarahman/Desktop/CPP_OREILLY/chapter_2/namespaces/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/munnarahman/Desktop/CPP_OREILLY/chapter_2/namespaces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
